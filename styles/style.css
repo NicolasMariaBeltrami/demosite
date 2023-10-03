@@ -1,0 +1,14 @@
+p {
+    color: red;
+  }
+#descr-id{
+    color:aqua;
+}
+.class1{
+    width: 500px;
+    border: 1px solid black;
+    color: blueviolet;
+}
+a:hover{
+    color: green; 
+}
